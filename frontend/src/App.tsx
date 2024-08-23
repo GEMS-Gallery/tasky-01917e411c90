@@ -120,7 +120,7 @@ function App() {
         <Button
           type="submit"
           variant="contained"
-          color="primary"
+          color="warning"
           startIcon={<AddIcon />}
           sx={{ mt: 1 }}
           disabled={loading}
